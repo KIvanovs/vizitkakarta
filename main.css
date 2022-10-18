@@ -1,0 +1,74 @@
+body{
+    background: url("https://media.discordapp.net/attachments/759859695220424765/1031834343338934313/1643147648_1-phonoteka-org-p-chernii-fon-dlya-saita-1.jpg?width=1920&height=1080")
+    no-repeat;
+}
+
+
+.aboutMe{
+    width: 292px;
+    height: 115px;
+    margin-left: 150px;
+    
+    background: #D9D9D9;
+    border-radius: 50px;
+
+
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 52px;
+
+color: #202020;
+}
+
+.socialMedia{
+    margin-left: 150px;
+    width: 292px;
+    height: 115px;
+
+background: #D9D9D9;
+    border-radius: 50px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 52px;
+
+color: #202020;
+}
+
+.hobby{
+    width: 292px;
+    height: 115px;
+    margin-left: 150px;
+background: #D9D9D9;
+    border-radius: 50px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 52px;
+
+color: #202020;
+}
+
+.games{
+    width: 292px;
+    height: 115px;
+    margin-left: 150px;
+    background: #D9D9D9;
+        border-radius: 50px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 52px;
+    
+    color: #202020; 
+}
+body {margin:0;}
