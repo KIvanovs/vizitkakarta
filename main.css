@@ -1,9 +1,40 @@
 body{
-    background: url("https://media.discordapp.net/attachments/759859695220424765/1031834343338934313/1643147648_1-phonoteka-org-p-chernii-fon-dlya-saita-1.jpg?width=1920&height=1080")
-    no-repeat;
+    background-color: rgb(7, 7, 7);
 }
 
+.navigation-bar {
+    width: 100%;  /* i'm assuming full width */
+    height: 80px; /* change it to desired width */
+    background-color: whitesmoke; /* change to desired color */
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:rgb(7, 7, 7);
+    font-size: large;   /* if you want it vertically middle of the navbar */
+}
 
+.double-backgorund{
+    width: 1140px;
+    min-height: calc(100vh);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+}
+/*
 .aboutMe{
     width: 292px;
     height: 115px;
@@ -71,4 +102,5 @@ color: #202020;
     
     color: #202020; 
 }
+*/
 body {margin:0;}
