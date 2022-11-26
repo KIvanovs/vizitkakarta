@@ -1,2 +1,2 @@
 link:
-https://kivanovs.github.io/vizitkakarta/hmtl/index.html
+https://kivanovs.github.io/vizitkakarta/html/index.html
