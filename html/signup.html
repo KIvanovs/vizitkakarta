@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>Animated Login Form | CodingNepal</title>
-    <link rel="stylesheet" href="../css/login.css">
-    <script src="../js/login.js"></script>
+    <link rel="stylesheet" href="../css/sign.css">
+    <script src="../js/sign.js"></script>
   </head>
   <body>
     <div class="center">
-      <h1>Login</h1>
+      <h1>Sign up</h1>
         <div class="txt_field">
           <input type="text" id="username"required>
           <span></span>
@@ -19,11 +19,12 @@
           <span></span>
           <label>Password</label>
         </div>
-        <div class="pass">Forgot Password?</div>
-        <button onclick="Login()" id="loginButton">Login</button>
-        <div class="signup_link">
-          Not a member? <a href="../html/signup.html">Signup</a>
-        </div>
+        <div class="txt_field">
+            <input type="password" id="confirm_password" required>
+            <span></span>
+            <label>Confirm Password</label>
+          </div>
+        <button onclick="Sign()" id="signupButton">Sign up</button>
     </div>
 
   </body>

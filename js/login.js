@@ -2,9 +2,9 @@
 function Login(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "Formget" && password == "formget#123"){
+if ( username == "admin" && password == "admin"){
 alert ("Login successfully");
-window.location = "index.html";
+window.location = "../html/index.html";
 return false;
 }
 }
